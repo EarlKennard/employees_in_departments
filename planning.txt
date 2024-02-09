@@ -1,0 +1,25 @@
+main.rs :
+	pub mod company_struct;
+
+	use crate::company_struct::company;
+
+	mut list_of_companies: Vec<company>
+	
+user_inputs.rs :
+	use std::io;
+
+	pub fn user_input_str
+
+
+company_struct.rs :
+	use std::collections::HashMap;
+
+	pub struct company
+	
+
+companies_vector_fns.rs :
+
+
+user_interface.rs :
+	
+	
